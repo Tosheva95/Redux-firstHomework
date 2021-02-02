@@ -1,0 +1,27 @@
+.tableColor {
+  color: blue
+}
+
+.imageStyle {
+  max-height: 100px; 
+}
+
+.firstStyle {
+  margin: 30px;
+   color: blue;
+}
+
+.heading {
+  text-align: center;
+}
+
+
+.thStyle {
+  width: 25%;
+  color: blue
+}
+
+.headingFour {
+  color: blue;
+  margin: 20px
+}
